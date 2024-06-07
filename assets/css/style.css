@@ -940,6 +940,12 @@ footer{
     .about-info, .contact-info{
         width: 100%;
     }
+    .project-container1{
+        justify-content: center;
+    }
+    .project-box1{
+        width: 80%;
+    }
     .project-container{
         justify-content: center;
     }
@@ -954,6 +960,9 @@ footer{
 @media only screen and (max-width: 540px){
     .featured-name{
         font-size: 40px;
+    }
+    .project-box1{
+        width: 100%;
     }
     .project-box{
         width: 100%;
